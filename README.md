@@ -16,6 +16,7 @@ These terraform files will deploy the content in the "mywebsite" folder to AWS S
     terraform plan
     terraform apply
     ```
+## Credits
 Modified from these tutorials/repo:
 - https://youtu.be/S-rZl9VYgnU
 - https://advancedweb.hu/how-to-migrate-to-cloudfront-origin-access-control-from-origin-access-identity
