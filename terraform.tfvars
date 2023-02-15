@@ -1,0 +1,8 @@
+my_aws_region       = "MYREGION"
+bucket_name         = "MYBUCKETNAME"
+domain_name         = "MYDOMAIN"
+endpoint            = "MYWEBSITE"
+my_aws_creds        = "~/.aws/credentials"
+my_aws_profile      = "default"
+project_name        = "MYPROJECTTAG"
+site_content_source = "PATH TO SITE CONTENT"
